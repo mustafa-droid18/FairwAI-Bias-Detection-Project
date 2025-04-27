@@ -5,6 +5,21 @@ This project focuses on detecting potential bias in hospitality-related Yelp rev
 Dataset Link: https://www.kaggle.com/code/ypaudel/extensive-eda-on-yelp-business-data/input
 ---
 
+# 📂 Data Folder
+
+This folder is intended to store the raw Yelp data used in the project.
+
+Due to the large size of the dataset (~7GB), the files are not directly hosted in this GitHub repository.  
+You can download the original Yelp Open Dataset from [Kaggle - Yelp Dataset](https://www.kaggle.com/datasets/yelp/yelp-dataset).
+
+Specifically used files:
+- `yelp_academic_dataset_business.json`
+- `yelp_academic_dataset_review.json`
+
+These two files were filtered to focus on five cities (Las Vegas, Toronto, Phoenix, Charlotte, Pittsburgh) and hospitality-related categories.
+
+---
+
 ## 🚀 Process Overview
 
 1. **Data Filtering**:
