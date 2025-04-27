@@ -2,6 +2,8 @@
 This project focuses on detecting potential bias in hospitality-related Yelp reviews across five major cities, as part of the FairwAI Challenge. It includes extensive data cleaning, bias keyword detection, hotel chain analysis, and fairness impact measurements using statistical tests.
 
 ---
+Dataset Link: https://www.kaggle.com/code/ypaudel/extensive-eda-on-yelp-business-data/input
+---
 
 ## 🚀 Process Overview
 
